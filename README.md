@@ -10,7 +10,7 @@ Institution: Shenzhen Key Laboratory of Media Information Content Security(MICS)
 Team name: BokingChen
 
 Username: 
-- [Baoying Chen](https://github.com/beibuwandeluori) email: 1900271059@email.szu.edu.cn
+- [Baoying Chen](https://github.com/beibuwandeluori)
 
 ## Pipeline
 ### EfficientNet-B2(RGB) 4c  + EfficientNet-B2(YCrCb) 4c + TTA
